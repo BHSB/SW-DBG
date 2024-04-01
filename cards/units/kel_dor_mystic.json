@@ -1,0 +1,21 @@
+{
+    "quantity": 2,
+    "card_type": "unit",
+    "name": "Kel Dor Mystic",
+    "faction": "neutral",
+    "unique": false,
+    "cost": 2,
+    "attack": 0,
+    "resources": 0,
+    "force": 2,
+    "target_value": null,
+    "reward": {
+        "resources": 0,
+        "force": 0,
+        "exile": 0
+    },
+    "hp": null,
+    "trait": null,
+    "ability": null,
+    "description": ""
+}

@@ -1,0 +1,21 @@
+{
+    "quantity": 1,
+    "card_type": "base",
+    "name": "Dantooine",
+    "faction": "rebel",
+    "unique": true,
+    "cost": 0,
+    "attack": 0,
+    "resources": 0,
+    "force": 0,
+    "target_value": null,
+    "reward": {
+        "resources": 0,
+        "force": 0,
+        "exile": 0
+    },
+    "hp": 8,
+    "trait": null,
+    "ability": "starter",
+    "description": ""
+}

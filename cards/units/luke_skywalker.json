@@ -1,0 +1,21 @@
+{
+    "quantity": 1,
+    "card_type": "unit",
+    "name": "Luke Skywalker",
+    "faction": "rebel",
+    "unique": true,
+    "cost": 8,
+    "attack": 6,
+    "resources": 0,
+    "force": 2,
+    "target_value": 8,
+    "reward": {
+        "resources": 4,
+        "force": 4,
+        "exile": null
+    },
+    "hp": null,
+    "trait": "jedi",
+    "ability": null,
+    "description": ""
+}

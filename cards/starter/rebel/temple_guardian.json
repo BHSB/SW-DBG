@@ -1,0 +1,21 @@
+{
+    "quantity": 1,
+    "card_type": "unit",
+    "name": "Temple Guardian",
+    "faction": "rebel",
+    "unique": false,
+    "cost": 0,
+    "attack": 0,
+    "resources": 0,
+    "force": 0,
+    "target_value": null,
+    "reward": {
+        "resources": 0,
+        "force": 0,
+        "exile": 0
+    },
+    "hp": null,
+    "trait": null,
+    "ability": null,
+    "description": ""
+}

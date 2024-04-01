@@ -1,0 +1,21 @@
+{
+    "quantity": 2,
+    "card_type": "unit",
+    "name": "Rebel Trooper",
+    "faction": "empire",
+    "unique": false,
+    "cost": 0,
+    "attack": 2,
+    "resources": 0,
+    "force": 0,
+    "target_value": null,
+    "reward": {
+        "resources": 0,
+        "force": 0,
+        "exile": 0
+    },
+    "hp": null,
+    "trait": null,
+    "ability": null,
+    "description": ""
+}
